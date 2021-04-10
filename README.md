@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 title="hehehe"> Hi there 👋, I'm Aimen :)</h3>
-l
+
 <a href="https://www.linkedin.com/in/aimen-hamed-aa8240144">
   <img align="left" alt="Aimen's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -64,3 +64,4 @@ A **Software Engineering** ***Student*** 🚀.
 
 ----
 Last Edited on: 10/04/2021
+Credit: [Jas-Script](https://github.com/Jas-Script)
