@@ -34,7 +34,7 @@ A **Software Engineering** ***Student*** 🚀.
 **About Me**
 
 - 🎧💻 I’m currently a Software Engineering Undergraduate student at UNSW, Sydney
-- 🕵️ I’m currently exploring Front end development with interests in Cyber security. 
+- 🕵️ I’m currently exploring web development and cyber security. 
 - 🤔 My interest lies in full stack web development and cyber security.
 - 💬 Ask me about anything!
 - 📫 Email me at [aimenhamedwork@gmail.com](mailto:aimenhamedwork@gmail.com).
