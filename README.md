@@ -39,6 +39,10 @@ A **Software Engineering** ***Student*** 🚀.
 - 💬 Ask me about anything!
 - 📫 Email me at [aimenhamedwork@gmail.com](mailto:aimenhamedwork@gmail.com).
 
+**Experience**
+- Optus Intern ~ DevOps (Jun 2021 - )
+- Harvey Norman Online ~ CSR (Feb 2018 - )
+
 
 
 **Languages and Tools:**  
