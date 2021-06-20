@@ -69,7 +69,7 @@ A **Software Engineering** ***Student*** 🚀.
 
 <img src="https://github-readme-stats.vercel.app/api?username=aimenhamed&show_icons=true&hide_border=true&count_private=true&theme=prussian&icon_color=fad000" alt="Aimen's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimenhamed&count_private=true&theme=radical" alt="Aimen" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimenhamed&theme=radical#1355" alt="Aimen" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimenhamed&hide=html,css&theme=radical#1355" alt="Aimen" />
 
 ----
 Last Edited on: 10/04/2021
