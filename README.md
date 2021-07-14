@@ -82,7 +82,32 @@ A **Software Engineering** ***Student*** 🚀.
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimenhamed&count_private=true&theme=radical" alt="Aimen" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimenhamed&hide=html,css,makefile&theme=radical#1355" alt="Aimen" />
 
+
+### University
+
+🟩 - Completed
+
+🟨 - In progress
+
+🟪 - Planned
+
+🟦 - Thesis
+
+
+|        | Year 1     | Year 2     | Year 3     | Year 4     |
+|--------|------------|------------|------------|------------|
+| Term 1 | 🟩 COMP1511 | 🟩 SENG2021 | 🟪 COMP3231 | 🟦 COMP4951 |
+|        | 🟩 ENGG1000 | 🟩 COMP2041 | 🟪 COMP6841 | 🟪 COMP6080 |
+|        | 🟩 MATH1131 |            | 🟪 SENG3011 | 🟪 COMP9321 |
+| Term 2 | 🟩 COMP1521 | 🟨 DESN2000 | 🟪 COMP3141 | 🟦 COMP4952 |
+|        | 🟩 MATH1081 |            | 🟪 MATH2400 | 🟪 COMP6771 |
+|        |            |            | 🟪 MATH2859 |            |
+| Term 3 | 🟩 COMP1531 | 🟪 SENG2011 | 🟪 COMP2511 | 🟦 COMP4953 |
+|        | 🟩 COMP2521 |            | 🟪 COMP3311 | 🟪 COMP4920 |
+|        | 🟩 MATH1231 |            | 🟪 COMP3331 | 🟪 COMP9322 |
+| Summer |            | 🟪 COMP3511 |            |            |
+
 ----
-Last Edited on: 12/07/2021
+Last Edited on: 15/07/2021
 
 Credit: [Jas-Script](https://github.com/Jas-Script)
