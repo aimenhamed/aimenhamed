@@ -107,6 +107,8 @@ A **Software Engineering** ***Student*** 🚀.
 |        | 🟩 MATH1231 |            | 🟪 COMP3331 | 🟪 COMP9322 |
 | Summer |            | 🟪 COMP3511 |            |            |
 
+You can find what these courses are [here](https://www.handbook.unsw.edu.au/search?q=COMP).
+
 ----
 Last Edited on: 15/07/2021
 
