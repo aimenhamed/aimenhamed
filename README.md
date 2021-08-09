@@ -101,11 +101,13 @@ A **Software Engineering** ***Student*** 🚀.
 |        | 🟩 MATH1131 |            | 🟪 SENG3011 | 🟪 COMP9321 |
 | Term 2 | 🟩 COMP1521 | 🟨 DESN2000 | 🟪 COMP3141 | 🟦 COMP4952 |
 |        | 🟩 MATH1081 |            | 🟪 MATH2400 | 🟪 COMP6771 |
-|        |            |            | 🟪 MATH2859 |            |
-| Term 3 | 🟩 COMP1531 | 🟪 SENG2011 | 🟪 COMP2511 | 🟦 COMP4953 |
+|        |            |            | 🟪 MATH2859 | 🟪 COMP6447 |
+|        |            |            | 🟪 COMP2511 |            |
+| Term 3 | 🟩 COMP1531 | 🟪 SENG2011 | 🟪 COMP4511 | 🟦 COMP4953 |
 |        | 🟩 COMP2521 |            | 🟪 COMP3311 | 🟪 COMP4920 |
 |        | 🟩 MATH1231 |            | 🟪 COMP3331 | 🟪 COMP9322 |
-| Summer |            | 🟪 COMP3511 |            |            |
+| Summer |            | 🟪 COMP3511 | 🟪 ARTS2374 |            |
+|        |            |            | 🟪 PHYS1160 |            |
 
 You can find what these courses are [here](https://www.handbook.unsw.edu.au/search?q=COMP).
 
