@@ -85,29 +85,9 @@ A **Software Engineering** ***Student*** 🚀.
 
 ### University
 
-🟩 - Completed
+![image](https://user-images.githubusercontent.com/66828989/128947108-e89ab890-d59f-4c09-bd80-46e6ea5cbeaf.png)
 
-🟨 - In progress
-
-🟪 - Planned
-
-🟦 - Thesis
-
-
-|        | Year 1     | Year 2     | Year 3     | Year 4     |
-|--------|------------|------------|------------|------------|
-| Term 1 | 🟩 COMP1511 | 🟩 SENG2021 | 🟪 COMP3231 | 🟦 COMP4951 |
-|        | 🟩 ENGG1000 | 🟩 COMP2041 | 🟪 COMP6841 | 🟪 COMP6080 |
-|        | 🟩 MATH1131 |            | 🟪 SENG3011 | 🟪 COMP9321 |
-| Term 2 | 🟩 COMP1521 | 🟨 DESN2000 | 🟪 COMP3141 | 🟦 COMP4952 |
-|        | 🟩 MATH1081 |            | 🟪 MATH2400 | 🟪 COMP6771 |
-|        |            |            | 🟪 MATH2859 | 🟪 COMP6447 |
-|        |            |            | 🟪 COMP2511 |            |
-| Term 3 | 🟩 COMP1531 | 🟪 SENG2011 | 🟪 COMP4511 | 🟦 COMP4953 |
-|        | 🟩 COMP2521 |            | 🟪 COMP3311 | 🟪 COMP4920 |
-|        | 🟩 MATH1231 |            | 🟪 COMP3331 | 🟪 COMP9322 |
-| Summer |            | 🟪 COMP3511 | 🟪 ARTS2374 |            |
-|        |            |            | 🟪 PHYS1160 |            |
+Final year (2024) is the thesis year.
 
 You can find what these courses are [here](https://www.handbook.unsw.edu.au/search?q=COMP).
 
