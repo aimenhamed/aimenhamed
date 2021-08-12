@@ -78,9 +78,9 @@ A **Software Engineering** ***Student*** 🚀.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aimenhamed&show_icons=true&hide_border=true&count_private=true&theme=prussian&icon_color=fad000" alt="Aimen's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimenhamed&count_private=true&theme=radical" alt="Aimen" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimenhamed&hide=html,css,makefile&theme=radical#1355" alt="Aimen" />
+<img src="https://github-readme-stats.vercel.app/api?username=aimenhamed&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&icon_color=fad000" alt="Aimen's GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimenhamed&count_private=true&theme=tokyonight" alt="Aimen" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimenhamed&hide=html,css,makefile&theme=tokyonight#1355" alt="Aimen" />
 
 
 ### University
@@ -90,6 +90,11 @@ A **Software Engineering** ***Student*** 🚀.
 Final year (2024) is the thesis year.
 
 You can find what these courses are [here](https://www.handbook.unsw.edu.au/search?q=COMP).
+
+
+### Extra
+
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimenhamed&langs_count=10&hide=html,css,makefile&layout=compact&theme=tokyonight#1355" alt="Extra" />
 
 ----
 Last Edited on: 15/07/2021
