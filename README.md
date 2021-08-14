@@ -85,7 +85,7 @@ A **Software Engineering** ***Student*** 🚀.
 
 ### University
 
-<img align="center" width=500 src="https://user-images.githubusercontent.com/66828989/128947108-e89ab890-d59f-4c09-bd80-46e6ea5cbeaf.png" alt="Aimen" />
+<img align="center" width=500 src="https://user-images.githubusercontent.com/66828989/129435312-be231cfa-0b82-4892-ae6a-aa5954798158.png" alt="Aimen" />
 
 Final year (2024) is the thesis year.
 
