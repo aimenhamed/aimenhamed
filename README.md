@@ -43,6 +43,10 @@ A **Software Engineering** ***Student*** 🚀.
 - Optus Intern ~ DevOps Product Engineer (Jun 2021 - )
 - Harvey Norman Online ~ CSR (Feb 2018 - )
 
+**Portfolio**
+
+https://aimenhamed.github.io/
+
 
 
 **Languages and Tools:**  
