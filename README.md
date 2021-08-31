@@ -34,8 +34,9 @@ A **Software Engineering** ***Student*** 🚀.
 **About Me**
 
 - 🎧💻 I’m currently a Software Engineering Undergraduate student at UNSW, Sydney
-- 🕵️ I’m currently exploring front end web development. 
-- 🤔 My interest lies in full stack web development and cyber security.
+- 🕵️ I’m currently exploring cloud native development. 
+- 🤔 My interest lies in cyber security and web development.
+- 👨‍💻 Most of my experience is with full stack web development and DevOps.
 - 💬 Ask me about anything!
 - 📫 Email me at [aimenhamedwork@gmail.com](mailto:aimenhamedwork@gmail.com).
 
@@ -119,6 +120,6 @@ You can find what these courses are [here](https://www.handbook.unsw.edu.au/sear
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimenhamed&langs_count=10&hide=html,css,makefile&layout=compact&theme=tokyonight#1355" alt="Extra" />
 
 ----
-Last Edited on: 19/08/2021
+Last Edited on: 1/09/2021
 
 Credit: [Jas-Script](https://github.com/Jas-Script)
