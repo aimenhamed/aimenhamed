@@ -104,22 +104,11 @@ https://aimenhamed.vercel.app/
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimenhamed&hide=html,css,makefile&theme=tokyonight#1355" alt="Aimen" />
 
 
-
-
-### University
-
-<img align="center" width=500 src="https://user-images.githubusercontent.com/66828989/129435312-be231cfa-0b82-4892-ae6a-aa5954798158.png" alt="Aimen" />
-
-Final year (2024) is the thesis year.
-
-You can find what these courses are [here](https://www.handbook.unsw.edu.au/search?q=COMP).
-
-
 ### Extra
 
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimenhamed&langs_count=10&hide=html,css,makefile&layout=compact&theme=tokyonight#1355" alt="Extra" />
 
 ----
-Last Edited on: 1/09/2021
+Last Edited on: 26/10/2021
 
 Credit: [Jas-Script](https://github.com/Jas-Script)
