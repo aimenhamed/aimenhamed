@@ -40,7 +40,8 @@ A **Software Engineering** ***Student*** 🚀.
 - 📫 Email me at [aimenhamedwork@gmail.com](mailto:aimenhamedwork@gmail.com).
 
 **Experience**
-- Optus Intern ~ Product Engineer [Full stack] (Jun 2021 - )
+- Optus ~ Junior Software Engineer (March 2022 - present)
+- Optus ~ Product Engineer Intern (Jun 2021 - Feb 2022)
 
 **Portfolio**
 
@@ -55,6 +56,7 @@ https://aimenhamed.vercel.app/
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+<code><img height="30" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
@@ -73,6 +75,6 @@ https://aimenhamed.vercel.app/
 
 
 ----
-Last Edited on: 04/02/2022
+Last Edited on: 21/03/2022
 
 Credit: [Jas-Script](https://github.com/Jas-Script)
