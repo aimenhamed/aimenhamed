@@ -40,8 +40,8 @@ A **Software Engineering** ***Student*** 🚀.
 - 📫 Email me at [aimenhamedwork@gmail.com](mailto:aimenhamedwork@gmail.com).
 
 **Experience**
-- Optus ~ Junior Software Engineer (March 2022 - present)
-- Optus ~ Product Engineer Intern (Jun 2021 - Feb 2022)
+- Optus ~ Junior Software Engineer (Dec 2021 - present)
+- Optus ~ Product Engineer Intern (Jun 2021 - Nov 2021)
 
 **Portfolio**
 
