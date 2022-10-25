@@ -59,7 +59,7 @@ https://aimenhamed.vercel.app/
 <code><img height="30" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="30" src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png"></code>
+<code><img height="30" src="https://nextjs.org/static/favicon/android-chrome-512x512.png"></code>
 
 **Tools and other languages:**  
 
@@ -75,6 +75,6 @@ https://aimenhamed.vercel.app/
 
 
 ----
-Last Edited on: 21/03/2022
+Last Edited on: 26/10/2022
 
 Credit: [Jas-Script](https://github.com/Jas-Script)
