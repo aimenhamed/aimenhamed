@@ -34,13 +34,14 @@ A **Software Engineering** ***Student*** 🚀.
 **About Me**
 
 - 🎧💻 I’m currently a Software Engineering Undergraduate student at UNSW, Sydney
-- 🤔 My interest lies in full stack web development.
+- 🤔 My interest lies in full stack and site reliability engineering.
 - 👨‍💻 Most of my experience is with full stack web development and DevOps.
 - 💬 Ask me about anything!
 - 📫 Email me at [aimenhamedwork@gmail.com](mailto:aimenhamedwork@gmail.com).
 
 **Experience**
-- Optus ~ Junior Software Engineer (Dec 2021 - present)
+- Atlassian ~ Site Reliability Engineer Intern (Nov 2022 - present)
+- Optus ~ Junior Software Engineer (Dec 2021 - Nov 2022)
 - Optus ~ Product Engineer Intern (Jun 2021 - Nov 2021)
 
 **Portfolio**
@@ -75,6 +76,6 @@ https://aimenhamed.vercel.app/
 
 
 ----
-Last Edited on: 26/10/2022
+Last Edited on: 22/11/2022
 
 Credit: [Jas-Script](https://github.com/Jas-Script)
