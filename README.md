@@ -40,7 +40,8 @@ A **Software Engineering** ***Student*** 🚀.
 - 📫 Email me at [aimenhamedwork@gmail.com](mailto:aimenhamedwork@gmail.com).
 
 **Experience**
-- Atlassian ~ Site Reliability Engineer Intern (Nov 2022 - present)
+- Zip ~ Software Engineer (Feb 2023 - present)
+- Atlassian ~ Site Reliability Engineer Intern (Nov 2022 - Feb 2023)
 - Optus ~ Junior Software Engineer (Dec 2021 - Nov 2022)
 - Optus ~ Product Engineer Intern (Jun 2021 - Nov 2021)
 
@@ -76,6 +77,6 @@ https://aimenhamed.vercel.app/
 
 
 ----
-Last Edited on: 22/11/2022
+Last Edited on: 1/3/2023
 
 Credit: [Jas-Script](https://github.com/Jas-Script)
