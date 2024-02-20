@@ -26,24 +26,25 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-A **Software Engineering** ***Student*** 🚀.
+**Software Engineer** 🚀
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me**
 
-- 🎧💻 I’m currently a Software Engineering Undergraduate student at UNSW, Sydney
-- 🤔 My interest lies in full stack and site reliability engineering.
+- 🎧💻 I’m currently a Software Engineer at Atlassian
+- 🤔 My interest lies in full stack engineering.
 - 👨‍💻 Most of my experience is with full stack web development and DevOps.
 - 💬 Ask me about anything!
 - 📫 Email me at [aimenhamedwork@gmail.com](mailto:aimenhamedwork@gmail.com).
 
 **Experience**
-- Zip ~ Software Engineer (Feb 2023 - present)
-- Atlassian ~ Site Reliability Engineer Intern (Nov 2022 - Feb 2023)
-- Optus ~ Junior Software Engineer (Dec 2021 - Nov 2022)
-- Optus ~ Product Engineer Intern (Jun 2021 - Nov 2021)
+- Atlassian - Software Engineer (Feb 2024 - present)
+- Zip - Software Engineer (Feb 2023 - Feb 2024)
+- Atlassian - Site Reliability Engineer Intern (Nov 2022 - Feb 2023)
+- Optus - Junior Software Engineer (Dec 2021 - Nov 2022)
+- Optus - Product Engineer Intern (Jun 2021 - Nov 2021)
 
 **Portfolio**
 
@@ -77,6 +78,6 @@ https://aimenhamed.vercel.app/
 
 
 ----
-Last Edited on: 1/3/2023
+Last Edited on: 20/02/2024
 
 Credit: [Jas-Script](https://github.com/Jas-Script)
